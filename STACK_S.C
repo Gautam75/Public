@@ -88,8 +88,15 @@ int main()
 		case 3:
 			printf("thanq u");
 			break;
+		case 4:
+			push(&stack);
+			break;
+		case 5:
+			printf("Fuck you");
+			break;
 		default: 
-			printf("sorry invalid number entered");
+			printf("Bitch please");
+		
 		}
 	}
 	getch();
